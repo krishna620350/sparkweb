@@ -5,15 +5,15 @@
 	font-family: sans-serif;
 }
 .intro{
-	background: #EAF0F1;
+	background: #012222;
 }
 h1{
-	color: #4C4B4B;
+	color: #0531f7;
 	font-weight: bold;
-	transition: 0.5s;
+	transition: 0.9s;
 }
 h3{
-	color:#2F363F;
+	color:#5296ee;
 }
 button{
 	border:none;
@@ -29,11 +29,11 @@ button:hover,h1:hover{
 	transform: scale(1.1);
 }
 button:hover{
-	background-color:#4C4B4B;
+	background-color:#6ef89e;
 }
 footer{
 	color:#586776;
-	background-color:#EAF0F1;
+	background-color:#70e8fd;
 	letter-spacing: 0.5px;
 }
 footer p{

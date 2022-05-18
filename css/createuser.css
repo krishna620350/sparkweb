@@ -17,7 +17,7 @@ button,input {
 
 .screen {
   position: relative;
-  background: #d9d9d9;
+  background: #002c1c;
   border-radius: 15px;
   box-shadow: 5px 10px 10px rgba(0, 0, 0, .25);
 }
@@ -69,7 +69,7 @@ button,input {
   background: none;
   border: none;
   border-bottom: 1px solid #4C4B4B;
-  color: #4C4B4B;
+  color: #f9f6f6;
   font-size: 14px;
   outline: none;
   transition: border-color .2s;
